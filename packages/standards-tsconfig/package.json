@@ -1,18 +1,16 @@
 {
-  "name": "@altamir/standards",
+  "name": "@altamir/standards-tsconfig",
   "version": "1.0.0",
-  "description": "Altamir Standards encourages best practices when developing applications that scale.",
+  "description": "Altamir Standards for tsconfig files encourages best practices when developing typescript applications that scale.",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/altamirio/standards.git"
   },
   "keywords": [
-    "javascript",
     "typescript",
-    "lint",
-    "eslint",
-    "tslint"
+    "tsconfig",
+    "altamir"
   ],
   "contributors": [
     {
@@ -31,5 +29,7 @@
     "url": "https://github.com/altamirio/standards/issues"
   },
   "homepage": "https://github.com/altamirio/standards#readme",
-  "dependencies": {}
+  "dependencies": {
+    "typescript": "^3.2.2"
+  }
 }

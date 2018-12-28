@@ -1,18 +1,17 @@
 {
-  "name": "@altamir/standards",
-  "version": "1.0.0",
-  "description": "Altamir Standards encourages best practices when developing applications that scale.",
+  "name": "@altamir/standards-tslint",
+  "version": "1.0.1",
+  "description": "Altamir Standards for tslint files encourages best practices when developing typescript applications that scale.",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/altamirio/standards.git"
   },
   "keywords": [
-    "javascript",
     "typescript",
     "lint",
-    "eslint",
-    "tslint"
+    "tslint",
+    "altamir"
   ],
   "contributors": [
     {
@@ -31,5 +30,7 @@
     "url": "https://github.com/altamirio/standards/issues"
   },
   "homepage": "https://github.com/altamirio/standards#readme",
-  "dependencies": {}
+  "dependencies": {
+    "tslint": "^5.12.0"
+  }
 }
