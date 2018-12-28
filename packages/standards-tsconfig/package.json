@@ -1,6 +1,6 @@
 {
   "name": "@altamir/standards-tsconfig",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Altamir Standards for tsconfig files encourages best practices when developing typescript applications that scale.",
   "main": "index.js",
   "repository": {

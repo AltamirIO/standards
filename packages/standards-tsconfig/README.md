@@ -16,8 +16,6 @@ npm install --dev @altamir/standards-tsconfig
 
 ```json
 {
-  "extends": [
-    "@altamir/standards-tsconfig"
-  ]
+  "extends": "@altamir/standards-tsconfig/tsconfig.json"
 }
 ```
