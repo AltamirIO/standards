@@ -1,0 +1,34 @@
+{
+  "name": "@altamir/standards",
+  "version": "1.0.0",
+  "description": "Altamir Standards encourages best practices when developing applications that scale.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altamirio/standards.git"
+  },
+  "keywords": [
+    "javascript",
+    "typescript",
+    "lint",
+    "eslint",
+    "tslint"
+  ],
+  "contributors": [
+    {
+      "name": "Jacob Dick",
+      "email": "jdick@altamir.io",
+      "url": "https://www.linkedin.com/in/jacobkdick/"
+    },
+    {
+      "name": "Spencer Stolworthy",
+      "email": "sstolworthy@altamir.io",
+      "url": "https://www.linkedin.com/in/spencer-stolworthy/"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/altamirio/standards/issues"
+  },
+  "homepage": "https://github.com/altamirio/standards#readme"
+}
