@@ -6,5 +6,5 @@ module.exports = {
     'object-literal-sort-keys': false,
     'quotemark': [true, 'single'],
     'semicolon': [true, 'never'],
-},
+  },
 }
