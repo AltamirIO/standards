@@ -1,5 +1,5 @@
 {
-  "name": "@altamir/standards-eslint-base",
+  "name": "@altamir/eslint-config-altamir",
   "version": "1.0.0",
   "description": "Altamir Standards for eslint files encourages best practices when developing JavaScript applications that scale.",
   "main": "index.js",
