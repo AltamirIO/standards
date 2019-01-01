@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ['./packages/standards-eslint-base/index.js']
+  extends: ['./packages/eslint-config-altamir/index.js']
 }
