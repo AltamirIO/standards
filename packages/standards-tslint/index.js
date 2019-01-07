@@ -4,7 +4,7 @@ module.exports = {
   ],
   'rules': {
     'object-literal-sort-keys': false,
-    'quotemark': [true, 'single'],
+    'quotemark': [true, 'avoid-escape'],
     'semicolon': [true, 'never'],
   },
 }
