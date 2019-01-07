@@ -1,18 +1,17 @@
 {
-  "name": "@altamir/standards",
-  "version": "1.0.0",
-  "description": "Altamir Standards encourages best practices when developing applications that scale.",
+  "name": "@altamir/standards-markdownlint",
+  "version": "1.0.1",
+  "description": "Markdownlint standards for Altamir",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/altamirio/standards.git"
   },
   "keywords": [
-    "javascript",
-    "typescript",
-    "lint",
-    "eslint",
-    "tslint"
+    "markdown",
+    "markdownlint",
+    "standards",
+    "altamir"
   ],
   "contributors": [
     {
@@ -31,8 +30,9 @@
     "url": "https://github.com/altamirio/standards/issues"
   },
   "homepage": "https://github.com/altamirio/standards#readme",
-  "dependencies": {},
-  "devDependencies": {
-    "eslint-config-airbnb": "^17.1.0"
+  "dependencies": {
+    "cli-color": "^1.4.0",
+    "glob": "^7.1.3",
+    "markdownlint": "^0.11.0"
   }
 }
