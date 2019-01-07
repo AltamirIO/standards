@@ -1,6 +1,6 @@
 {
   "name": "@altamir/standards-tslint",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Altamir Standards for tslint files encourages best practices when developing typescript applications that scale.",
   "main": "index.js",
   "repository": {
